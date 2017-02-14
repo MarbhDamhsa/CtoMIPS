@@ -21,3 +21,15 @@ int main()
     
     B[8] = A[i - j];
  }
+
+
+# loopDemo
+
+Rewrite C statement
+
+while (left < right ) {
+     ++left;
+     print left ( 2 3 4 5 6 7 8 9 10 )
+}
+
+in MIPS assembly.
